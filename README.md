@@ -22,7 +22,7 @@ More detailed instructions for tau corrections are
   * [Eta-dependent fake rate SFs for the anti-lepton discriminators](#eta-dependent-fake-rate-sfs-for-the-anti-lepton-discriminators)<br>
   * [DM-dependent tau energy scale](#dm-dependent-tau-energy-scale)<br>
   * [Eta- & DM-dependent e -> tau fake energy scale](#eta---dm-dependent-e---tau-fake-energy-scale)<br>
-  * [Pt- & Eta-dependent jet -> tau fake rates](#pt---eta-dependent-j---tau-fake-rates)<br>
+  * [Pt- & Eta-dependent jet -> tau fake rates](#pt---eta-dependent-jet---tau-fake-rates)<br>
 
 ## Installation of the tool
 
