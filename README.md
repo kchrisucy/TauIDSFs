@@ -378,7 +378,7 @@ fesDown = festool.getFES(eta,dm,genmatch,unc='Down')
 ### Pt- & Eta-dependent jet -> tau fake rates
 The jet -> tau fake rates (FRs) are provided in the files [`data/JetToTauFakeRates_DeepTau2018v2p5_*.root`](data)
 calculated for DeepTau2018v2p5 using Run2 UL samples. These FRs should only be applied to tau candidates
-that pass the loosest wp of the Vsjet discriminator (VVVLooseDeepTau2017v2p5VSjet) and but the desired one.
+that pass the loosest wp of the Vsjet discriminator (VVVLooseDeepTau2017v2p5VSjet) but failt the desired one.
 More information can be found in the corresponding talk given in the tauPOG-CQM subgroup meeting
 in which the method and the selections for this measurement are summarized
 ([here](https://indico.cern.ch/event/1315167/#35-jet-tau-fr-for-deeptau-v25)).
