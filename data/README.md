@@ -13,6 +13,7 @@ The files contain:
 * `TauID_SF_eta_*_*.root`: eta-dependent fake rate SFs for anti-lepton discriminators
 * `TauES_dm_*_*.root`: Tau energy scales.
 * `TauFES_eta-dm_*_*.root`: Electron to tau fake energy scales.
+* `JetToTauFakeRates_DeepTau2018v2p5_*.root`: Jet to tau fake rates.
 
 What they should be applied to is summarized in [README of the parent directory](../../../#summary-of-available-sfs).
 
